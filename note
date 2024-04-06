@@ -1,0 +1,2 @@
+git init: khoi dong local repository
+git add <ten file>, git add . : dua cac thay doi cua file vao trong vung nho stagging area
