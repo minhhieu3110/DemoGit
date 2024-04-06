@@ -1,6 +1,6 @@
 git init: khoi dong local repository
 git add <ten file>, git add . : dua cac thay doi cua file vao trong vung nho stagging area
-git commit: dua cac thay doi tu stagging vao trong local repository va luu lai snapshot vao thoi diem do
-git commit -m "ghi chu": moi lan thay doi
+git commit: dua cac thay doi tu stagging vao trong local repository va luu lai snapshot vao thoi diem do: moi lan thay doi gi
+git commit -m "ghi chu": moi lan thay doi :moi lan thay doi gi
 git remote : ket noi local repository voi remote repository
-git push: day code cac thay doi tu local len remot
+git push: day code cac thay doi tu local len remote : moi lan thay doi gi
