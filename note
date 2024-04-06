@@ -1,2 +1,4 @@
 git init: khoi dong local repository
 git add <ten file>, git add . : dua cac thay doi cua file vao trong vung nho stagging area
+git commit: dua cac thay doi tu stagging vao trong local repository va luu lai snapshot vao thoi diem do
+git commit -m "": moi lan thay doi
